@@ -1,0 +1,8 @@
+1. git clone https://github.com/Naz9898/GreenCoordinatesPython.git
+2. create new conda env (conda version = 22.11.1, python version = 3.8.16)
+3. package install
+3.1. jupyter lab : conda install -c conda-forge jupyterlab
+3.2. pythreejs : conda install -c conda-forge pythreejs
+3.3. igl : conda install -c conda-forge igl
+3.4. meshplot : conda install -c conda-forge meshplot
+4. restart jupyter lab
